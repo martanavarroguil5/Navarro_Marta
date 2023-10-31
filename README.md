@@ -18,4 +18,4 @@ b) En este caso utilizaría el comando "cd /UAX/archivo.txt". Es una ruta relati
 
 9º C) Añadiste el botón "x^4" al archivo "index.html" en tu repositorio local, creaste un commit con los cambios y luego subiste el repositorio local al remoto en la rama principal (master).
 
-Lin al repositorio: https://github.com/martanavarroguil5/Navarro_Marta.git
+Link al repositorio: https://github.com/martanavarroguil5/Navarro_Marta.git
