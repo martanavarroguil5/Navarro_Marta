@@ -1,4 +1,6 @@
 # Navarro_Marta
+Marta Navarro Guil
+
 1º Con un Pull Request un usuario puede fusionar en su repositorio los cambios que otro usuario ha solicitado hacer en el repositorio del primer usuario.
 
 2º Un conflicto de fusión se da cuando al realizar un merge un mismo archivo presenta un contenido distinto en la misma linea. Para solucionarlo uno debe abrir dicho archivo y eliminar de la linea la información que quiere cambiar. Por último, se continúa con el merge con git merge --continue.
